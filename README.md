@@ -1,4 +1,4 @@
-\# Hotel Booking Application
+\# Hotel Booking and Reservation System
 
 
 
