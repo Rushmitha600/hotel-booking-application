@@ -14,3 +14,7 @@ Features:
 
 \- Cancel reservations
 
+\- Search hotels by location
+
+\- Display room prices
+
