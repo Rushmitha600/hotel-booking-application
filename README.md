@@ -1,4 +1,4 @@
-\# Online Hotel Booking System
+\# Online Hotel Booking Systems
 
 A simple application to manage hotel room bookings.
 
